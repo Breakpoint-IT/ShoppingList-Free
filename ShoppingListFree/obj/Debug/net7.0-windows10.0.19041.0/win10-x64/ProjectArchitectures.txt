@@ -1,0 +1,1 @@
+F:\Workspace\PHPstorm\ShoppingList\mobile\ShoppingListFree\ShoppingListFree.csproj;x64
